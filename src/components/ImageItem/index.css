@@ -1,0 +1,14 @@
+.list-image {
+  width: 110px;
+  height: 110px;
+}
+
+.image-item {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.image-button {
+  border: none;
+  
+}
